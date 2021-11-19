@@ -36,3 +36,9 @@
 		.bg-link {
 			background-color: #3c4248;
 		}
+		.font{
+			height: 3rem;
+			line-height: 3rem;
+			color: #6c757d;
+			border-bottom: 2px solid #e9ecef;
+		}

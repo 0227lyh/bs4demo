@@ -1,0 +1,38 @@
+.left{
+			position: fixed;
+			background-color: #283643;
+			width: 12rem;
+			height: 100%;
+			top: 3.5rem;
+			bottom: 0;
+			margin-bottom: 0;
+		}
+		.left li a{
+			padding-left: 2rem;
+			padding-right: 2rem;
+			height: 3rem;
+			width: 12rem;
+			line-height: 3rem;
+			color: white;
+			display: block;
+			text-decoration: none;
+		}
+		.left-li a:hover {
+			background-color: #3c4248;
+		}
+		.btn-group button {
+			color: rgb(114, 182, 255);
+		}
+		.right{
+			position: fixed;
+			top: 3.5rem;
+			bottom: 0;
+			left: 12rem;
+			right: 0;
+		}
+		.body-main{
+			width: 100%;
+		}
+		.bg-link {
+			background-color: #3c4248;
+		}
